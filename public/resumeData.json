@@ -1,0 +1,44 @@
+{
+  "main": {
+    "name":"Cameron Calder",
+    "occupation":"Full Stack Web Dev",
+    "description":"This discription needs some work, I'll get to it later ;)",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Cameronleecalder@gmail.com",
+    "phone": "214-491-0274",
+    "address":{
+      "street":"265 Holder Trail",
+      "city":"Mckinney",
+      "state":"Texas",
+      "zip": "75071"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+
+    ],
+    "work":[
+    ],
+    "skills":[
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+    ]
+  }
+}
